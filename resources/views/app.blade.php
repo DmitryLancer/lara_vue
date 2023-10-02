@@ -9,9 +9,9 @@
 </head>
 <body>
 @vite('resources/js/app.js')
-
+@dump('hello')
 <div id="app">
-
+    <app-component></app-component>
 </div>
 
 
